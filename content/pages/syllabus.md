@@ -95,32 +95,259 @@ If at any point, you should feel the need for further discussion to clarify any 
 Grading
 -------
 
-| Activities | Percentages |
-| --- | --- |
-| Attendance, Punctuality, and Class participation | 20% |
-| Class Discussion and Oral Presentation | 40% |
-| Papers | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance, Punctuality, and Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Discussion and Oral Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Papers
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| Lec # | TOPICS | Key Dates |
-| --- | --- | --- |
-| 1 | Introduction: Why South Asia? | &nbsp; |
-| {{< td-colspan 3 >}}**I. Diversity and Difference: Stories from Bangladesh, India, Nepal, Pakistan and Sri Lanka**{{< /td-colspan >}} |||
-| 2 | Stories from Bangladesh, Nepal and Pakistan | &nbsp; |
-| 3 | Stories from Sri Lanka | &nbsp; |
-| {{< td-colspan 3 >}}**II. Politics and History: A Tale of Turmoil**{{< /td-colspan >}} |||
-| 4 | Stories from Pakistan | &nbsp; |
-| 5 | Stories from India | Paper I due |
-| 6 | Stories from Sri Lanka (cont.) | &nbsp; |
-| 7 | Stories from India (cont.) | Revised paper I due |
-| {{< td-colspan 3 >}}**III. Gender and Society: Margins and Center**{{< /td-colspan >}} |||
-| 8 | Stories from Bengali and India | Paper II due |
-| 9 | Stories from India (cont.) | &nbsp; |
-| 10 | Stories from Bangladesh | Revised paper II due |
-| 11 | Stories from Bengali and India (cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**IV. Transition and Social Change: Past, Present and Future**{{< /td-colspan >}} |||
-| 12 | Stories from Bengali and India (cont.) | Paper III due |
-| 13 | Stories from India and Pakistan | &nbsp; |
-| 14 | Stories from Bengali and India (cont.) | Revised paper III due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Why South Asia?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Diversity and Difference: Stories from Bangladesh, India, Nepal, Pakistan and Sri Lanka**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Stories from Bangladesh, Nepal and Pakistan
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Stories from Sri Lanka
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Politics and History: A Tale of Turmoil**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Stories from Pakistan
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Stories from India
+{{< tdclose >}}
+{{< tdopen >}}
+Paper I due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Stories from Sri Lanka (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Stories from India (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Revised paper I due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Gender and Society: Margins and Center**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Stories from Bengali and India
+{{< tdclose >}}
+{{< tdopen >}}
+Paper II due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Stories from India (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Stories from Bangladesh
+{{< tdclose >}}
+{{< tdopen >}}
+Revised paper II due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Stories from Bengali and India (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IV. Transition and Social Change: Past, Present and Future**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Stories from Bengali and India (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Paper III due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Stories from India and Pakistan
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Stories from Bengali and India (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Revised paper III due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
